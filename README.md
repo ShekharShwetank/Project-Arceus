@@ -96,13 +96,14 @@ The flight controller uses carefully tuned PID parameters:
 4. **Drift Compensation**: Implements yaw drift compensation when stationary
 5. **Audio Feedback**: Buzzer provides status indication tones
 
-## Contributing
+## Project Images
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### Component Layout
+![Components](resources/Components%20.jpg)
+
+### Drone Views
+![Top View](resources/TOP%20VIEW.jpg)
+![Front View](resources/Front%20View.jpg)
 
 ## License
 
